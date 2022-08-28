@@ -1,0 +1,24 @@
+body {
+    font-family: arial;
+    background: linear-gradient(to right, #00AAFF, #00FF6c);
+}
+
+input{
+    padding : 15px;
+    width: 200px;
+    border-radius: 5px;
+    border: solid 2px #BBB;
+}
+
+div{
+    margin: 10px 0px;
+}
+
+button{
+    padding : 15px;
+    border-radius : 5px;
+    border : solid 2px #BBB;
+    cursor: pointer;
+    background-color: rgb(138, 51, 51);
+
+}
