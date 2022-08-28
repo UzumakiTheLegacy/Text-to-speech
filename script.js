@@ -6,7 +6,7 @@ function textToAudio() {
 
   speech.text = msg;
   speech.volume = 10;
-  speech.rate = 1;
+  speech.rate = 0.5;
   speech.pitch = 1;
 
   window.speechSynthesis.speak(speech);
